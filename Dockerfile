@@ -1,3 +1,3 @@
 FROM ubuntu 
-RUN echo "surprice you are on jenkins"> /tmp/jenkins-file
+RUN echo "damn this is 2"> /tmp/jenkins-file
 
